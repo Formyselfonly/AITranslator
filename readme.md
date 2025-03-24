@@ -58,6 +58,6 @@ AI Translator 是一款基于大语言模型（LLMs）的智能翻译工具，�
 
 **开发者：** ShijieZheng
 
-**联系方式：**z1597006376@gmail.com
+**联系方式：** z1597006376@gmail.com
 
 **开源协议：** Apache 2.0
